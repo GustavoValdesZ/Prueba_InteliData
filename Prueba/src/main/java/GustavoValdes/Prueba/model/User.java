@@ -1,4 +1,4 @@
-package GustavoValdes.Prueba.model;
+package gustavovaldes.prueba.model;
 
 public class User {
 
